@@ -1,4 +1,4 @@
-<img src="![1767630045610](https://github.com/user-attachments/assets/cb97864d-8bfe-40bb-8b30-0d58a0bb85c4)"
+<img src="![1767630045610](https://github.com/user-attachments/assets/cb97864d-8bfe-40bb-8b30-0d58a0bb85c4)."
 width="300">
 # 👋 Hi, I'm GujaratGaming
 ### Professional Minecraft Server Developer & Setup Specialist
