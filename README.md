@@ -1,5 +1,5 @@
 <img src="https://github.com/user-attachments/assets/cb97864d-8bfe-40bb-8b30-0d58a0bb85c4"
-width="950">
+width="950" height="600">
 # 👋 Hi, I'm GujaratGaming
 ### Professional Minecraft Server Developer & Setup Specialist
 📍 **Discord:** `gujaratgaming` | 🇮🇳 **Region:** India
