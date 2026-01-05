@@ -13,14 +13,14 @@ All prices are in **INR**. My "Professional" packages include **custom plugin de
 
 | Gamemode | Normal Setup | Professional Setup | Key Features (Pro) |
 | :--- | :--- | :--- | :--- |
-| **⚔️ Lifesteal** | ₹280 | **₹300** | Full setup (See Add-ons below). |
-| **🛏️ Bedwars** | ₹270 (4 Teams) | **₹350** | **Unlimited Teams**, custom arena setup. |
-| **🤺 Duels & FFA** | ₹250 | **₹300** | **Custom Kits**, optimized knockback. |
+| **⚔️ Lifesteal** | ₹380 | **₹450** | Full setup (See Add-ons below). |
+| **🛏️ Bedwars** | ₹370 (4 Teams) | **₹450** | **Unlimited Teams**, custom arena setup. |
+| **🤺 Duels & FFA** | ₹350 | **₹450** | **Custom Kits**, optimized knockback. |
 | **☁️ Skyblock** | ₹260 | **₹330** | Includes **Minions** & economy balance. |
 | **📦 OneBlock** | ₹200 | **₹250** | Progressive phases & rewards. |
-| **🎮 Mini Games** | ₹200 (2 Games) | **₹250** | **3 Games** of your choice. |
+| **🎮 Mini Games** | ₹200 (2 random Games) | **₹350** | **4 Games** of your choice. |
 | **🌲 Survival** | ₹180 | **₹260** | Claims, RTP, and economy. |
-| **🌐 Website** | - | **₹180** | 3rd party website setup for your server. |
+| **🌐 Website** | - | **₹380** | 3rd party website setup for your server. |
 
 ### 🧩 Premium Add-ons
 Enhance your **Lifesteal** or **SMP** server with these specific features:
