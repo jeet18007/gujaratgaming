@@ -63,6 +63,3 @@ Ready to start your server?
   <source src="2025_12_18_20_01_12 (1).mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
-
-<img src="https://github.com/user-attachments/assets/cb97864d-8bfe-40bb-8b30-0d58a0bb85c4"
-width="950" height="520">
