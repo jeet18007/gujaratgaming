@@ -61,5 +61,4 @@ Ready to start your server?
 
 <video width="320" height="240" controls>
   <source src="https://github.com/user-attachments/assets/e0c722e3-9840-4666-9450-abcf0408c76a.mp4" type="video/mp4>
-</video>
 
