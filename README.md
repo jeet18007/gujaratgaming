@@ -60,4 +60,8 @@ Ready to start your server?
 
 
 <video width="320" height="240" controls>
-  <source src="2025_12_18_20_01_12 (1).mp4" type="2025_12_18_20_01_12 (1)/mp4
+  <source src="https://github.com/user-attachments/assets/e0c722e3-9840-4666-9450-abcf0408c76a.mp4" type="video/mp4
+
+
+
+
