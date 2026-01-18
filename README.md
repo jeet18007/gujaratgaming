@@ -61,5 +61,4 @@ Ready to start your server?
 
 <video width="320" height="240" controls>
   <source src="2025_12_18_20_01_12 (1).mp4" type="2025_12_18_20_01_12 (1)/mp4">
-Your browser does not support the video tag.
 </video>
