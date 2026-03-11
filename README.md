@@ -57,8 +57,3 @@ Enhance your **Lifesteal** or **SMP** server with these specific features:
 Ready to start your server?
 * **Discord:** `gujaratgaming`
 * **DM me directly** to discuss your requirements!
-
-
-<video width="320" height="240" controls>
-  <source src="https://github.com/user-attachments/assets/e0c722e3-9840-4666-9450-abcf0408c76a.mp4" type="video/mp4>
-
